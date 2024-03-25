@@ -6,7 +6,7 @@ A cartilha está [disponível em formato PDF aqui](https://github.com/marcosvita
 
 ## Como citar
 Se você usar esta cartilha como referência em qualquer atividade acadêmica, pode nos citar com os dados:
-> Santos, Claudemir Ferreira dos; Vital, Marcos Vinícius Carneiro. Construindo um aplicativo educacional passo a passo: a experiência com o aplicativo Vida de Inseto. 2022. ISBN: 978-65-00-37701-9. DOI: [10.5281/zenodo.10870954](https://zenodo.org/doi/10.5281/zenodo.10870953). Disponível em <https://marcosvital.github.io/criar-app-educacional/>
+> Santos, Claudemir Ferreira dos; Vital, Marcos Vinícius Carneiro. Construindo um aplicativo educacional passo a passo: a experiência com o aplicativo Vida de Inseto. 2022. ISBN: 978-65-00-37701-9. DOI: [10.5281/zenodo.10871019](https://zenodo.org/records/10871019). Disponível em <https://marcosvital.github.io/criar-app-educacional/>
 
 ## Licença de uso
 Este material é  gratuito e de livre distribuição, e está sob uma licença Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br). Você pode distribuir livremente, e  se criar algum material derivado deve citar a fonte original, manter a mesma licença e distribuir qualquer material derivado de forma igualmente gratuita.
